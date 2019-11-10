@@ -1,5 +1,5 @@
 Solves the numberpuzzle game using manhattan distance heuristic.\
-Type in the board as follows, marking the empty space with '-'\
+Type in the board as follows, marking the empty space with '-'
 
 
 1 3 6 4\
